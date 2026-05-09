@@ -6,6 +6,7 @@ I am interested in Deep learning and Physics as whole. I also have fair knowledg
 
 ### I am currently doing DL projects related to topics which interests me
 Here is the list of some DL projects that i have done so far other than tutorials - 
+1. **[Skill Weaver](https://github.com/tanish3/skill-weaver)** - This project helps in managing the skills properly, reducing load times, managed versions. 
 1. **[Masked Autoendcoder](https://github.com/tanish3/MaskedAutoencoder)** - This work interpolates the existing Masked Autoencoder ( Published by Facebook research) to the medical domain. This is the first step of the project which has been successful. After this model will be interpolated to 3D images(still in progress). 
 1. **[TiramisuSeg_Pytorch](https://github.com/tanish3/PyTorchCocoSeg_Tiramisu)** - Implemented One hundred Layers Tiramisu on COCO dataset using PyTorch for Segmentation
 2. **[Removing Background and Cartoonising](https://github.com/Tanish-4067/BackgroundRemoverCartooniser)** - This project was a national level competition (HackCV, Roboweek by NIT Hamirpur) in which i was able to secure rank in top 5. In this project, a UNET architecture was implemented for Human semantic segmentation for removing background. Then, the image was cartoonised using 2 GANs and VGG19. For the first part, human images from COCO dataset were used. For second part stills from animes, anime faces dataset from kaggle, 5000 landscape photos and 10000 human face photos from  FFHQ dataset were used
