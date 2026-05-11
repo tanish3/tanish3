@@ -1,8 +1,8 @@
 # Hi 👋
 
 
-My name is Tanish Mittal. Currently, I am pursuing MSc. Physics and B.E. Computer Science in BITS Pilani, Pilani campus.
-I am interested in Deep learning and Physics as whole. I also have fair knowledge of data structures and algorithms. My preferred programming languages are Python, C++ and MATLAB.
+My name is Tanish Mittal. Currently, I am working in Capitalone as Senior Software Engineer. I pursued MSc. Physics and B.E. Computer Science in BITS Pilani, Pilani campus.
+I am interested in exploring new ideas, writing code, prototyping and playing with data and new tools. Deep learning and its application is something which excites me a lot. I also have fair knowledge of data structures and algorithms. My preferred programming languages are Python, C++ and MATLAB.
 
 ### I am currently doing DL projects related to topics which interests me
 Here is the list of some DL projects that i have done so far other than tutorials - 
